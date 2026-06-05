@@ -1,7 +1,7 @@
 /**
  * CÔNG CỤ ĐIỀU PHỐI CỐT TRUYỆN (Narrative Engine)
  * 
- * Đây là hạt nhân của Aetheria, kết nối tất cả các module:
+ * Đây là hạt nhân của hệ thống, kết nối tất cả các module:
  * 1. Narrative Memory (Ký ức)
  * 2. Character & Lore Context (Ngữ cảnh)
  * 3. Gemini AI Service (Trí tuệ nhân tạo)

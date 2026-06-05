@@ -50,7 +50,7 @@ Truyện này dựa trên nguồn: [${sourceUrl}].
         : "";
 
     return `
-=== HỆ ĐIỀU HÀNH KỂ CHUYỆN AETHERIA (V3.3 - Canon-Locked) ===
+=== HỆ THỐNG KỂ CHUYỆN AI (V3.3 - Canon-Locked) ===
 
 🎭 **THỂ LOẠI CHÍNH:** ${genre}
 ${genreInstruction}

@@ -14,7 +14,7 @@ const AppContent: React.FC = () => {
             <div className="flex flex-col items-center justify-center h-screen bg-gray-950">
                 <div className="loader-spinner mb-5"></div>
                 <div className="text-primary-500 text-sm font-medium tracking-wide animate-pulse">
-                    Đang tải dữ liệu Aetheria...
+                    Đang tải dữ liệu hệ thống...
                 </div>
             </div>
         );

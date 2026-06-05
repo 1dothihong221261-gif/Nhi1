@@ -65,24 +65,11 @@ export const StoryLibrary: React.FC<{ onCreateNew: () => void }> = ({ onCreateNe
                     <div>
                         <div className="flex flex-col gap-2 mb-4">
                             <h1 className="text-5xl font-serif font-bold bg-gradient-to-r from-primary-400 via-blue-500 to-purple-600 bg-clip-text text-transparent animate-fadeIn drop-shadow-sm leading-tight">
-                                Aetheria
+                                Sáng Tác Truyện AI
                             </h1>
-                            <div className="flex items-center gap-3 animate-fadeIn">
-                                <span className="text-[11px] text-gray-400 font-bold uppercase tracking-widest bg-gray-900 border border-gray-800 px-2 py-1 rounded shadow-sm">
-                                    Builder: Sát Vách Lão Vương
-                                </span>
-                            </div>
                         </div>
                         <div className="flex items-center gap-4">
                             <p className="text-gray-400 font-medium">Quản lý các thế giới và tác phẩm của bạn.</p>
-                            <a 
-                                href="https://discord.gg/MMqwg7Dny4" 
-                                target="_blank" 
-                                rel="noopener noreferrer"
-                                className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[#5865F2]/10 border border-[#5865F2]/30 text-[#5865F2] hover:bg-[#5865F2] hover:text-white transition-all text-sm font-bold shadow-lg shadow-[#5865F2]/5"
-                            >
-                                Discord
-                            </a>
                         </div>
                     </div>
                     <div className="flex gap-4">
