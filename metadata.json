@@ -1,6 +1,6 @@
 {
   "name": "Nhiv8.1github",
-  "description": "",
+  "description": "An AI-driven story-writing application. Created by Nhi",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
